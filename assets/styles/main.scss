@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Khand:wght@300;400;500;600;700&family=Noto+Sans+Thai:wght@100..900&display=swap');
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.khand-light {
+    font-family: "Khand", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.khand-regular {
+    font-family: "Khand", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.khand-medium {
+    font-family: "Khand", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.khand-semibold {
+    font-family: "Khand", system-ui;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.khand-bold {
+    font-family: "Khand", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.bg_green {
+    background-color: #0A9573;
+}
